@@ -336,7 +336,7 @@ def main():
         )
 
     # ---------------- MAIN AREA ----------------
-    st.title("🧭 HR Policy Assistant")
+    st.title("HR Policy Assistant")
     st.write(
         "Upload your company's HR Policy PDF, then ask questions about it. "
         "This assistant uses **Retrieval-Augmented Generation (RAG)** to find "
